@@ -17,7 +17,7 @@ Welcome to my GitHub. This GitHub for collecting project or work and exp in the 
 
 <p align="left"> <a href="https://discord.com/users/cosmic.eternity" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/universe45" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_f.drof_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
 
-### Top Language
+### Top Languages
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=universe45&theme=dark&show_icons=true)](https://github.com/universe45)
 
